@@ -12,7 +12,7 @@
     "@ckeditor/ckeditor5-link": "0.3.0",
     "@ckeditor/ckeditor5-build-classic": "0.3.0",
     "@ckeditor/ckeditor5-build-inline": "0.3.0",
-    "@ckeditor5-build-balloon": "0.3.0",
+    "@ckeditor/ckeditor5-build-balloon": "0.3.0",
     "@ckeditor/ckeditor5-build-decoupled-document": "0.3.0",
     "@ckeditor/ckeditor5-editor-decoupled": "0.3.0"
   },
